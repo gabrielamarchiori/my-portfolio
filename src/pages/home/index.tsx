@@ -58,8 +58,7 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              You will see here all my projects created so far and all technologies used!
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
